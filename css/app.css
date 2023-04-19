@@ -1,0 +1,41 @@
+#main{
+    background-color: purple;
+}
+.title1{
+    font-weight: bolder;
+    font-size: 5rem;
+    color: black;
+}
+.Brands{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    margin: 1.5rem;
+    display: inline-block;
+    border-radius: 50%;
+    border-radius: 1rem;
+}
+
+#logo:hover{
+    transition: ease-in 1s;
+}
+
+#MainPage{
+    background-image: url("https://images.unsplash.com/photo-1659984716295-c3d4be94dc4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80");
+    background-size: cover;
+}
+#commentSection{
+    display: inline-block;
+    height: 275px;
+    width: 275px;
+    margin: .75rem;
+}
+.FAQS{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+#slide{
+    height: 500px;
+    width: 500px;
+}
